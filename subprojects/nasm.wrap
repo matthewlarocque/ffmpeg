@@ -1,0 +1,7 @@
+[wrap-git]
+url = https://gitlab.freedesktop.org/gstreamer/meson-ports/nasm-binary.git
+revision = HEAD
+depth = 1
+
+[provide]
+program_names = nasm
